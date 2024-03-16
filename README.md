@@ -35,6 +35,9 @@ Key components of Grounding DINO
 
 ## Useful Resources
 https://huggingface.co/docs/transformers/tasks/zero_shot_object_detection
+
 https://blog.roboflow.com/grounding-dino-zero-shot-object-detection/
+
 https://roboflow.com/model/groundingdino
+
 https://www.ikomia.ai/blog/grounding-dino-zero-shot-detection-explained#:~:text=Grounding%20DINO%20is%20a%20cutting,category%20names%20or%20referring%20expressions.
